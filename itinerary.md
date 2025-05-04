@@ -40,9 +40,9 @@ A tailored itinerary for a relaxing, family-friendly Bali holiday:
 | Airline             | Price   | Notes                               |
 |---------------------|---------|-------------------------------------|
 | **Scoot**           | ~$310   | 10kg cabin; checked baggage +$80    |
-| ![ScootScreenshot](<insert flight image url here>) |||
+| ![ScootScreenshot](/img/scootItinerary.png) |||
 | **Singapore Air**   | ~$520   | Full service                        |
-| ![ScootScreenshot](<insert flight image url here>) |||
+| ![ScootScreenshot](/img/siaItinerary.png) |||
 
 ---
 
