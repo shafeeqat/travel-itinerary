@@ -12,6 +12,7 @@
     <li><a href="#-accommodation-options">Accommodation Options</a></li>
     <li><a href="#-other-area-recommendation-4-nights">Other Area Recommendation</a></li>
     <li><a href="#-5-day-itinerary">5-Day Itinerary</a></li>
+    <li><a href="#-summary">Restaurants/Cafés in Bali</a></li>
     <li><a href="#-summary">Summary</a></li>
   </ol>
 </details>
@@ -135,26 +136,26 @@ Overall, Scoot offers a cheaper fare as compared to SIA, but the price only incl
 - Morning flight from Singapore  
 - Airport pickup to villa (Canggu/Ubud)  
 - Light rest and unpacking  
-- Dinner at nearby halal restaurant  
+- Dinner at nearby restaurant  
 
 ---
 
 ### Day 2 – 15 August
 - Breakfast at villa or café  
-- Visit **Waterbom Bali** (Kuta) – kid-friendly water park  
-- Lunch at halal-certified spot nearby  
+- [Visit **Waterbom Bali** (Kuta) – kid-friendly water park](https://www.youtube.com/watch?v=yV6Rp2zhOTI)
+- Lunch  
 - Shopping or optional spa time  
-- Seafood dinner at **Jimbaran Bay** (halal options)
+- [Seafood dinner at **Jimbaran Bay**](https://www.youtube.com/watch?v=8DqI_bLIhrQ)
 
 ![Waterbom Park](https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/12/23/e03986c2-3689-46fa-b346-0d355472818d-1640249617229-985ec7b0c8b9d720ee4baa6de97d4c12.jpg)
 
 ---
 
 ### Day 3 – 16 August
-- Morning at **Bali Safari & Marine Park**  
+- [Morning at **Bali Safari & Marine Park**](https://www.youtube.com/watch?v=otChzxFvzL4)
 - Return to villa for rest/lunch  
-- Evening cultural show – **Devdan Show** (circus-style)  
-- Dinner nearby (halal available)
+- [Evening cultural show – **Devdan Show** (circus-style)](https://www.youtube.com/watch?v=HP7pf-vuupI)
+- Dinner nearby
 
 ![Devdan Show](https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2024/08/09/268688ff-1ab4-4f2b-978d-240373119681-1723191585814-d8ff544c99a0383c8c765f98bbcf1495.png)
 
@@ -162,23 +163,50 @@ Overall, Scoot offers a cheaper fare as compared to SIA, but the price only incl
 
 ### Day 4 – 17 August
 - Breakfast  
-- Visit **Tegallalang Rice Terraces**  
-- Halal lunch at a nearby warung  
+- [Visit **Tegallalang Rice Terraces**](https://www.youtube.com/watch?v=bsmIbHmGR5o)
+- Lunch at a nearby warung  
 - Afternoon rest or massage  
-- Dinner at halal local restaurant  
+- Dinner at local restaurant  
 
 ![Rice Terrace](https://i0.wp.com/handluggageonly.co.uk/wp-content/uploads/2018/01/6I9A2728.jpg?resize=1000%2C1500&ssl=1)
 
 ---
 
 ### Day 5 – 18 August (Departure)
-- Sunrise at Mount Batur
+- [Sunrise at Mount Batur](https://www.youtube.com/watch?v=A5OoYAM5jro)
 - Packing  
 - Optional last-minute shopping  
 - Villa checkout  
 - Evening flight back to Singapore  
 
 ![Jeep Ride Mount Batur](https://www.pelago.com/img/products/ID-Indonesia/mount-batur-sunrise-jeep-tour/0419-0555_img_5469.jpg)
+
+<p align="right">(<a href="#itinerary-top">back to top</a>)</p>
+
+---
+
+## [work-in-progress]☕️ Restaurants/Cafés in **Bali**
+
+> This section is a WIP. Sourcing for more good food in Bali.... Please suggest some of your picks!
+
+### 🏝️ **Top Picks in Canggu**
+
+| Cafe/Restaurant         | Description                                | Price (SGD) | Notes                              |
+|-------------------------|--------------------------------------------|-------------|------------------------------------|
+| **Warung Muslim**       | Authentic Indonesian  warung               | ~$5–10      | Local favorite, very affordable    |
+| [**Satu-Satu Coffee Co.**](https://maps.app.goo.gl/VoNq8ytjt4FdboFQ8)| Local beans, hearty brunch, family-friendly| ~$10–15     | Friendly staff, good baby chairs   |
+| [**Crate Cafe**](https://maps.app.goo.gl/yvvYj1qGacVKnqK48)          | Trendy breakfast cafe, large portions      | ~$10–15     | Not fully halal, avoid non-halal meat |
+| [**Kebab Bradda**](https://maps.app.goo.gl/ce8LDvaEGzMnHZnw7) | Kebab with homemade sauces          | ~$8–12     | One of the best in Canggu!              |
+
+
+### 🌿 **Top Picks in Ubud**
+
+| Cafe/Restaurant            | Description                             | Price (SGD) | Notes                                    |
+|----------------------------|-----------------------------------------|-------------|------------------------------------------|
+| [**Bebek Bengil (Halal Branch)**](https://maps.app.goo.gl/KQZmiEp8JUfqyAN69) | Crispy duck, scenic views          | ~$15–25     | Confirm halal branch (some use pork)     |
+| [**Queen's of India**](https://maps.app.goo.gl/L2SzgxPWUCro8hae6)       | Indian food near Ubud Palace            | ~$10–20     | Vegetarian & meat options                |
+| [**Bale Udang Mang Engking**](https://maps.app.goo.gl/WXoUDj6asGVhLjy18)| Sundanese menu by the lake              | ~$20–25     | Beautiful bamboo huts, kid-friendly      |
+| [**Zest Ubud**](https://maps.app.goo.gl/gvM21BNC2RJzJMrM7)              | Zen-like, bohemian outfit serving plant-based global fare made from locally sourced ingredients.                 | ~$12–18     | Alcohol-free, stunning jungle view       |
 
 <p align="right">(<a href="#itinerary-top">back to top</a>)</p>
 
