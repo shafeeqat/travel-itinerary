@@ -12,7 +12,7 @@
     <li><a href="#-accommodation-options">Accommodation Options</a></li>
     <li><a href="#-other-area-recommendation-4-nights">Other Area Recommendation</a></li>
     <li><a href="#-5-day-itinerary">5-Day Itinerary</a></li>
-    <li><a href="#-summary">Restaurants/Cafés in Bali</a></li>
+    <li><a href="#work-in-progress%EF%B8%8F-restaurantscafés-in-bali">Restaurants/Cafés in Bali</a></li>
     <li><a href="#-summary">Summary</a></li>
   </ol>
 </details>
