@@ -19,7 +19,7 @@ A tailored itinerary for a relaxing, family-friendly Bali holiday:
 ## 🗓️ Trip Summary
 
 | Item               | Estimated Cost (SGD per pax) |
-|--------------------|-----------------------------|
+|--------------------|------------------------------|
 | Flight             | $300                         |
 | Accommodation      | Up to $200                   |
 | Food & Activities  | $200–300                     |
