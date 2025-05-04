@@ -11,8 +11,7 @@ A tailored itinerary for a relaxing, family-friendly Bali holiday:
   - 2 kids (2 y/o & 4 months)  
   - 1 helper (40+ years old)  
 - **Preferences:**  
-  - Halal-friendly dining  
-  - No bars or parties  
+  - Halal-friendly dining   
   - Child-safe activities
 
 ---
