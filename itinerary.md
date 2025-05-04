@@ -1,3 +1,4 @@
+<a name="itinerary-top"></a>
 
 # 🌴 Bali Trip Recommendation (14–18 August 2025)
 
@@ -6,10 +7,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#-overview">Overview</a></li>
-    <li><a href="#-trip-summary">Trip Summary</a></li>
-    <li><a href="#-flight-details">Flight Details</a></li>
+    <li><a href="#%EF%B8%8F-trip-summary">Trip Summary</a></li>
+    <li><a href="#%EF%B8%8F-flight-details">Flight Details</a></li>
     <li><a href="#-accommodation-options">Accommodation Options</a></li>
-    <li><a href="#-other-area-recommendation">Other Area Recommendation</a></li>
+    <li><a href="#-other-area-recommendation-4-nights">Other Area Recommendation</a></li>
     <li><a href="#-5-day-itinerary">5-Day Itinerary</a></li>
     <li><a href="#-summary">Summary</a></li>
   </ol>
@@ -28,6 +29,8 @@ A tailored itinerary for a relaxing, family-friendly Bali holiday:
   - Halal-friendly dining   
   - Child-safe activities
 
+<p align="right">(<a href="#itinerary-top">back to top</a>)</p>
+
 ---
 
 ## 🗓️ Trip Summary
@@ -38,6 +41,8 @@ A tailored itinerary for a relaxing, family-friendly Bali holiday:
 | Accommodation      | Up to $200                   |
 | Food & Activities  | $200–300                     |
 | **Total**          | **$700–800**                 |
+
+<p align="right">(<a href="#itinerary-top">back to top</a>)</p>
 
 ---
 
@@ -63,6 +68,8 @@ Overall, Scoot offers a cheaper fare as compared to SIA, but the price only incl
 - You have items exceeding the 10kg carry-on limit
 - You’re carrying liquids over 100ml each (more than 10 bottles)
 - Your baggage exceeds the cabin size restrictions
+
+<p align="right">(<a href="#itinerary-top">back to top</a>)</p>
 
 ---
 
@@ -104,6 +111,8 @@ Overall, Scoot offers a cheaper fare as compared to SIA, but the price only incl
 - Longer commute from airport
 - Fewer halal restaurants (still available)
 
+<p align="right">(<a href="#itinerary-top">back to top</a>)</p>
+
 ---
 
 ## 🏡 Other Area Recommendation (4 Nights)
@@ -115,6 +124,8 @@ Overall, Scoot offers a cheaper fare as compared to SIA, but the price only incl
 | [North Kuta](https://www.airbnb.co.uk/rooms/1335249382102654108?check_out=2025-08-18&viralityEntryPoint=1&unique_share_id=AB5672FC-AB9A-4A6A-8382-9F740086DC30&slcid=482410f8fa52409b8d398b8bc56ebe41&infants=1&s=76&feature=share&children=1&adults=6&check_in=2025-08-14&channel=native&slug=OZJ83I6f)  | $930        | $186          | ![screenshot](https://a0.muscache.com/im/pictures/miso/Hosting-1335249382102654108/original/0338841e-f705-490c-8a16-1ea28df8c8c3.jpeg?im_w=960) |
 | [Denpasar](https://www.airbnb.co.uk/rooms/1409115627495731168?check_out=2025-08-18&viralityEntryPoint=1&unique_share_id=CD5C5911-BCD0-4EF1-A521-7DC57AA62BE1&slcid=a43c309ab122440fa3225afc46cc244b&infants=1&s=76&feature=share&children=1&adults=6&check_in=2025-08-14&channel=native&slug=0q0NiVig&source_impression_id=p3_1746341828_P3_ReTS3HjEqWaGX)    | $821        | $165          | ![screenshot](https://a0.muscache.com/im/pictures/miso/Hosting-1409115627495731168/original/1a53dbd8-d2ab-410a-99a9-a772cb3785e1.jpeg?im_w=960) |
 | [Kediri](https://www.airbnb.co.uk/rooms/16785836?check_out=2025-08-18&viralityEntryPoint=1&unique_share_id=1201F6C3-4D41-4BB6-A643-2CC08C4F7155&slcid=219be6c1a865474f844610024dee1a78&infants=1&s=76&feature=share&children=1&adults=6&check_in=2025-08-14&channel=native&slug=9DGTCLnu&source_impression_id=p3_1746341211_P31zvkA-51i_gipV)      | $997        | $200          | ![screenshot](https://a0.muscache.com/im/pictures/96141a61-92c6-44bd-b970-11860f693a8e.jpg?im_w=960) |
+
+<p align="right">(<a href="#itinerary-top">back to top</a>)</p>
 
 ---
 
@@ -169,6 +180,8 @@ Overall, Scoot offers a cheaper fare as compared to SIA, but the price only incl
 
 ![Jeep Ride Mount Batur](https://www.pelago.com/img/products/ID-Indonesia/mount-batur-sunrise-jeep-tour/0419-0555_img_5469.jpg)
 
+<p align="right">(<a href="#itinerary-top">back to top</a>)</p>
+
 ---
 
 ## 📌 Summary
@@ -177,8 +190,12 @@ Overall, Scoot offers a cheaper fare as compared to SIA, but the price only incl
 - **Ubud**: Ideal for nature, calm, and cultural immersion  
 - Both locations offer halal-friendly stays and family-safe plans.
 
+<p align="right">(<a href="#itinerary-top">back to top</a>)</p>
+
 ---
 
 ### ✅ Final Notes:
 - All venues & restaurants chosen are **halal-friendly**  
 - Villas selected for **privacy, pool safety, and proximity**
+
+<p align="right">(<a href="#itinerary-top">back to top</a>)</p>
