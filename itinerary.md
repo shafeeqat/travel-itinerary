@@ -43,6 +43,13 @@ A tailored itinerary for a relaxing, family-friendly Bali holiday:
 | **Singapore Air**   | ~$520   | Full service                        |
 | ![ScootScreenshot](/img/siaItinerary.png) |||
 
+### Flight Summary
+Overall, Scoot offers a cheaper fare as compared to SIA, but the price only includes a 10kg carry-on baggage allowance and does not cover in-flight meals. If any of the following apply to you, you may need to purchase an additional 20kg check-in baggage allowance for around $80 per person:
+
+- You have items exceeding the 10kg carry-on limit
+- You’re carrying liquids over 100ml each (more than 10 bottles)
+- Your baggage exceeds the cabin size restrictions
+
 ---
 
 ## 🏠 Accommodation Options
