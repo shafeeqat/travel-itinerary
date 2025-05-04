@@ -1,6 +1,20 @@
 
 # 🌴 Bali Trip Recommendation (14–18 August 2025)
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#trip-summary">Trip Summary</a></li>
+    <li><a href="#flight-details">Flight Details</a></li>
+    <li><a href="#accommodation-options">Accommodation Options</a></li>
+    <li><a href="#other-area-recommendation">Other Area Recommendation</a></li>
+    <li><a href="#5-day-itinerary">5-Day Itinerary</a></li>
+    <li><a href="#summary">Summary</a></li>
+  </ol>
+</details>
+
 ## 🧳 Overview
 
 A tailored itinerary for a relaxing, family-friendly Bali holiday:
