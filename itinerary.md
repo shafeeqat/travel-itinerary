@@ -141,10 +141,13 @@ A tailored itinerary for a relaxing, family-friendly Bali holiday:
 ---
 
 ### Day 5 – 18 August (Departure)
-- Breakfast & packing  
+- Sunrise at Mount Batur
+- Packing  
 - Optional last-minute shopping  
 - Villa checkout  
 - Evening flight back to Singapore  
+
+![Jeep Ride Mount Batur](https://www.pelago.com/img/products/ID-Indonesia/mount-batur-sunrise-jeep-tour/0419-0555_img_5469.jpg)
 
 ---
 
