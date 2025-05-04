@@ -225,5 +225,6 @@ Overall, Scoot offers a cheaper fare as compared to SIA, but the price only incl
 ### ✅ Final Notes:
 - All venues & restaurants chosen are **halal-friendly**  
 - Villas selected for **privacy, pool safety, and proximity**
+- All per pax prices are calculated based on 5 adults, excluding the helper
 
 <p align="right">(<a href="#itinerary-top">back to top</a>)</p>
