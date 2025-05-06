@@ -75,7 +75,7 @@ Consider the trade-offs between cost and convenience. Scoot offers a lower base 
 ![Villa Kai](https://cf.bstatic.com/xdata/images/hotel/max1024x768/414589631.jpg?k=d6fe936e06ebd9a9f18cd24701be181d887ce96dcdbd6f836c1ced38e40e146d&o=&hp=1)
 [Villa Kai Website](https://www.villakaicanggu.com/)
 
-Price: ~ S$1,118.00 (S$224 / pax)
+Price: ~ S$1,118.00 (S$280 / room)
 
 Villa Kai in Canggu offers a private and comfortable stay with amenities likely including a private pool, multiple bedrooms, and living spaces, ideal for your group. Consider confirming child-friendly features like pool fencing (if needed) and the availability of a crib or high chair.
 
