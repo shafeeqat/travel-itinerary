@@ -105,10 +105,14 @@ Canggu is a vibrant coastal area that has become a popular hub for travelers see
 * **Ticket Price:** Adult day passes typically range from **IDR 650,000 to IDR 850,000** (approx. SGD 60-80). Children's tickets are usually cheaper. Online booking often offers discounts. Check the website for current promotions and family packages.
 * **Halal Considerations:** Food outlets within Waterbom offer a variety of options. Inquire specifically about halal-certified vendors or suitable vegetarian/seafood choices.
 
-### 2. Jimbaran Bay
+![Waterbom Park](https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/12/23/e03986c2-3689-46fa-b346-0d355472818d-1640249617229-985ec7b0c8b9d720ee4baa6de97d4c12.jpg)
+
+### 2. [Jimbaran Bay](https://www.youtube.com/watch?v=8DqI_bLIhrQ)
 
 * **What to Expect:** Famous for its seafood restaurants along the beach where you can enjoy grilled fish, prawns, and other seafood as the sun sets. The atmosphere is generally relaxed and family-friendly.
 * **Halal Considerations:** Focus on grilled seafood options and confirm with the specific restaurant about their preparation methods to ensure halal compliance.
+
+![Jimbaran Bay](https://wanderwhizzles.wordpress.com/wp-content/uploads/2018/07/jimbaran-1.jpg)
 
 ### 3. [Tegalalang Rice Terraces](https://www.getyourguide.com/tegalalang-l101704/)
 
@@ -116,11 +120,15 @@ Canggu is a vibrant coastal area that has become a popular hub for travelers see
 * **Ticket Price:** A small entrance fee of around **IDR 10,000 - IDR 20,000** per person. Bali Swing fees are separate (IDR 150,000 - IDR 450,000+).
 * **Halal Considerations:** Cafes in the area will likely offer vegetarian and some seafood options. Inquire about the source of any meat dishes.
 
+![Rice Terrace](https://i0.wp.com/handluggageonly.co.uk/wp-content/uploads/2018/01/6I9A2728.jpg?resize=1000%2C1500&ssl=1)
+
 ### 4. [Ubud Monkey Forest](https://monkeyforestubud.com/)
 
 * **What to Expect:** A sanctuary inhabited by Balinese long-tailed macaques. Explore the forest paths and ancient temples. Be mindful of your belongings, as monkeys can be curious. Keep a safe distance, especially with young children.
 * **Ticket Price:** Adult entrance around **IDR 80,000**, children around **IDR 60,000**.
 * **Halal Considerations:** Not applicable as this is a nature sanctuary.
+
+![Monkey Forest](https://i0.wp.com/thewanderlusttimes.com/wp-content/uploads/2024/10/sangeh-monkey-forest-2.jpg?fit=1200%2C900&ssl=1)
 
 ### 5. [Mount Batur Sunrise Jeep Tour](https://www.viator.com/tours/Bali/Mount-Batur-Sunrise-Jeep-Tour-Private-Tour/d593-16395P5)
 
@@ -128,17 +136,24 @@ Canggu is a vibrant coastal area that has become a popular hub for travelers see
 * **Ticket Price:** Varies by operator (IDR 500,000 - IDR 1,000,000+ per person).
 * **Halal Considerations:** Confirm with the tour operator if breakfast is halal-certified or if alternative options are available.
 
+![Jeep Ride Mount Batur](https://www.pelago.com/img/products/ID-Indonesia/mount-batur-sunrise-jeep-tour/0419-0555_img_5469.jpg)
+
 ### 6. [Garuda Wisnu Kencana (GWK) Cultural Park](https://gwkbali.com/)
 
 * **What to Expect:** A cultural park featuring the massive GWK statue, cultural performances, and art exhibitions. It offers insights into Balinese culture and mythology. The park is spacious and stroller-friendly in many areas.
 * **Ticket Price:** Adult entrance around **IDR 125,000**, children around **IDR 100,000**.
 * **Halal Considerations:** Food outlets within GWK should have vegetarian and potentially halal options. Inquire at specific restaurants.
 
+![GWK](https://thebalisun.com/wp-content/uploads/2023/08/GWK-Statue-Bali.jpg)
+
 ### 7. [Devdan - Treasure of the Archipelago](https://devdanshow.com/)
 
 * **What to Expect:** A vibrant theatrical performance showcasing the diverse cultures and dances of Indonesia with stunning costumes and effects. It's an engaging way to experience Indonesian heritage. The show is generally family-friendly, but consider the duration for very young children.
 * **Ticket Price:** Ranges from **IDR 520,000 to IDR 1,260,000** depending on seating.
 * **Halal Considerations:** Not applicable as this is a cultural performance.
+
+![Devdan Show](https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2024/08/09/268688ff-1ab4-4f2b-978d-240373119681-1723191585814-d8ff544c99a0383c8c765f98bbcf1495.png)
+
 
 <p align="right">(<a href="#itinerary-top">back to top</a>)</p>
 
