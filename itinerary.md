@@ -5,16 +5,16 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#overview">Overview</a></li>
-    <li><a href="#trip-summary">Trip Summary</a></li>
-    <li><a href="#flight-details">Flight Details</a></li>
-    <li><a href="#accommodation">Accommodation</a></li>
+    <li><a href="#-overview">Overview</a></li>
+    <li><a href="#%EF%B8%8F-trip-summary">Trip Summary</a></li>
+    <li><a href="#%EF%B8%8F-flight-details">Flight Details</a></li>
+    <li><a href="#-accommodation">Accommodation</a></li>
     <li><a href="#canggu-area-guide">Canggu Area Guide</a></li>
     <li><a href="#attraction-details">Attraction Details</a></li>
-    <li><a href="#6-day-detailed-itinerary">6-Day Detailed Itinerary</a></li>
-    <li><a href="#restaurants-cafes-in-bali">Restaurants/Cafés in Bali</a></li>
-    <li><a href="#summary">Summary</a></li>
-    <li><a href="#final-notes">Final Notes</a></li>
+    <li><a href="#6-day-detailed-itinerary-august-14th---19th">6-Day Detailed Itinerary</a></li>
+    <li><a href="#%EF%B8%8F-restaurantscaf%C3%A9s-in-bali">Restaurants/Cafés in Bali</a></li>
+    <li><a href="#-summary">Summary</a></li>
+    <li><a href="#-final-notes">Final Notes</a></li>
   </ol>
 </details>
 
@@ -99,42 +99,42 @@ Canggu is a vibrant coastal area that has become a popular hub for travelers see
 
 ## Attraction Details
 
-### Waterbom Bali ([https://www.waterbom-bali.com/](https://www.waterbom-bali.com/))
+### 1. Waterbom Bali ([https://www.waterbom-bali.com/](https://www.waterbom-bali.com/))
 
 * **What to Expect:** A highly-rated water park with a variety of thrilling slides, a lazy river, and kids' areas like Funtastic and Lazy River. It's set in lush tropical gardens and emphasizes safety. There are family-friendly rides and calmer pools suitable for young children (with supervision).
 * **Ticket Price:** Adult day passes typically range from **IDR 650,000 to IDR 850,000** (approx. SGD 60-80). Children's tickets are usually cheaper. Online booking often offers discounts. Check the website for current promotions and family packages.
 * **Halal Considerations:** Food outlets within Waterbom offer a variety of options. Inquire specifically about halal-certified vendors or suitable vegetarian/seafood choices.
 
-### Jimbaran Bay
+### 2. Jimbaran Bay
 
 * **What to Expect:** Famous for its seafood restaurants along the beach where you can enjoy grilled fish, prawns, and other seafood as the sun sets. The atmosphere is generally relaxed and family-friendly.
 * **Halal Considerations:** Focus on grilled seafood options and confirm with the specific restaurant about their preparation methods to ensure halal compliance.
 
-### Tegalalang Rice Terraces ([https://www.getyourguide.com/tegalalang-l101704/](https://www.getyourguide.com/tegalalang-l101704/))
+### 3. Tegalalang Rice Terraces ([https://www.getyourguide.com/tegalalang-l101704/](https://www.getyourguide.com/tegalalang-l101704/))
 
 * **What to Expect:** Iconic terraced rice paddies showcasing Bali's traditional irrigation system. You can walk along the paths, take photos, and enjoy the scenic views. There are also cafes and the Bali Swing attraction. The pathways can be uneven, so be cautious with strollers.
 * **Ticket Price:** A small entrance fee of around **IDR 10,000 - IDR 20,000** per person. Bali Swing fees are separate (IDR 150,000 - IDR 450,000+).
 * **Halal Considerations:** Cafes in the area will likely offer vegetarian and some seafood options. Inquire about the source of any meat dishes.
 
-### Ubud Monkey Forest ([https://monkeyforestubud.com/](https://monkeyforestubud.com/))
+### 4. Ubud Monkey Forest ([https://monkeyforestubud.com/](https://monkeyforestubud.com/))
 
 * **What to Expect:** A sanctuary inhabited by Balinese long-tailed macaques. Explore the forest paths and ancient temples. Be mindful of your belongings, as monkeys can be curious. Keep a safe distance, especially with young children.
 * **Ticket Price:** Adult entrance around **IDR 80,000**, children around **IDR 60,000**.
 * **Halal Considerations:** Not applicable as this is a nature sanctuary.
 
-### Mount Batur Sunrise Jeep Tour ([https://www.viator.com/tours/Bali/Mount-Batur-Sunrise-Jeep-Tour-Private-Tour/d593-16395P5](https://www.viator.com/tours/Bali/Mount-Batur-Sunrise-Jeep-Tour-Private-Tour/d593-16395P5))
+### 5. Mount Batur Sunrise Jeep Tour ([https://www.viator.com/tours/Bali/Mount-Batur-Sunrise-Jeep-Tour-Private-Tour/d593-16395P5](https://www.viator.com/tours/Bali/Mount-Batur-Sunrise-Jeep-Tour-Private-Tour/d593-16395P5))
 
 * **What to Expect:** A comfortable way to witness the sunrise over Mount Batur without hiking. You'll be driven up in a 4x4 jeep to a viewpoint. Breakfast is often included. The jeep ride can be bumpy, so consider the comfort of young children.
 * **Ticket Price:** Varies by operator (IDR 500,000 - IDR 1,000,000+ per person).
 * **Halal Considerations:** Confirm with the tour operator if breakfast is halal-certified or if alternative options are available.
 
-### Garuda Wisnu Kencana (GWK) Cultural Park ([https://gwkbali.com/](https://gwkbali.com/))
+### 6. Garuda Wisnu Kencana (GWK) Cultural Park ([https://gwkbali.com/](https://gwkbali.com/))
 
 * **What to Expect:** A cultural park featuring the massive GWK statue, cultural performances, and art exhibitions. It offers insights into Balinese culture and mythology. The park is spacious and stroller-friendly in many areas.
 * **Ticket Price:** Adult entrance around **IDR 125,000**, children around **IDR 100,000**.
 * **Halal Considerations:** Food outlets within GWK should have vegetarian and potentially halal options. Inquire at specific restaurants.
 
-### Devdan - Treasure of the Archipelago ([https://devdanshow.com/](https://devdanshow.com/))
+### 7. Devdan - Treasure of the Archipelago ([https://devdanshow.com/](https://devdanshow.com/))
 
 * **What to Expect:** A vibrant theatrical performance showcasing the diverse cultures and dances of Indonesia with stunning costumes and effects. It's an engaging way to experience Indonesian heritage. The show is generally family-friendly, but consider the duration for very young children.
 * **Ticket Price:** Ranges from **IDR 520,000 to IDR 1,260,000** depending on seating.
