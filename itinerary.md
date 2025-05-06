@@ -99,7 +99,7 @@ Canggu is a vibrant coastal area that has become a popular hub for travelers see
 
 ## Attraction Details
 
-### 1. Waterbom Bali ([https://www.waterbom-bali.com/](https://www.waterbom-bali.com/))
+### [1. Waterbom Bali](https://www.waterbom-bali.com/)
 
 * **What to Expect:** A highly-rated water park with a variety of thrilling slides, a lazy river, and kids' areas like Funtastic and Lazy River. It's set in lush tropical gardens and emphasizes safety. There are family-friendly rides and calmer pools suitable for young children (with supervision).
 * **Ticket Price:** Adult day passes typically range from **IDR 650,000 to IDR 850,000** (approx. SGD 60-80). Children's tickets are usually cheaper. Online booking often offers discounts. Check the website for current promotions and family packages.
