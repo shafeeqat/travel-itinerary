@@ -40,9 +40,9 @@ A tailored itinerary for a relaxing, family-friendly Bali holiday, balancing cul
 | Item               | Estimated Cost (SGD per pax) |
 | ------------------ | ---------------------------- |
 | Flight             | $300                         |
-| Accommodation      | $224                         |
+| Accommodation      | $280 (per room)              |
 | Food & Activities  | $200–300                     |
-| **Total**          | **$724–824**                 |
+| **Total**          | **$780–880**                 |
 
 <p align="right">(<a href="#itinerary-top">back to top</a>)</p>
 
@@ -254,7 +254,8 @@ This detailed 6-day itinerary in Bali offers a blend of relaxation in Canggu and
 
 * All mentioned venues and restaurants have potential halal-friendly options; however, it's always recommended to **double-check directly** with the establishments regarding their halal certifications and preparation methods.
 * Villas are selected for privacy, pool safety (confirm fencing if needed), and proximity to amenities.
-* All per pax prices are estimated based on 5 adults and do not include costs for the two infants (e.g., flights might have minimal charges, but activities and food are generally free or at a lower cost).
+* All per pax prices are estimation and do not include costs for the two infants (e.g., flights might have minimal charges, but activities and food are generally free or at a lower cost).
+* In the Trip Summary table, all expenses are calculated on a per-person basis, with the exception of the Villa. The listed price of $1,118.00 for the Villa is the total cost, which, when divided by the four rooms, amounts to approximately $280 per room.
 * Remember to pack essentials for young children, including medications, diapers, and comfortable clothing suitable for the tropical climate.
 * Stay hydrated and use sun protection for everyone in the group.
 * Be prepared for potential traffic, especially when traveling between different areas.
